@@ -25,7 +25,7 @@ if(true){
 
 const test = (name)=>{
     
-    return `My name is ${name}`
+    return `My name is ${name} `
     
 }
 //console.log(test('Karo'))
